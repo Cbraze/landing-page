@@ -3,7 +3,7 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
-    
+    font-family: monospace;
 }
 
 .header {
@@ -95,6 +95,8 @@ h1 {
     color: #fff;
     transform: translateY(-5px);
 }
+
+
 
 ul {
     list-style-type: none;
