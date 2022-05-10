@@ -128,3 +128,51 @@ ul {
 .quote p {
     font-style: italic;
 }
+
+.quote b {
+
+}
+
+.signup {
+    background-color: #a15c2b;
+    display: flex;
+    align-items: center;
+    margin: 50px 150px;
+    border-radius: 10px;
+    padding: 10px 85px;
+}
+
+.signup h3 {
+    padding: 0;
+    margin: 30px 0px 0px 50px;
+}
+.signup p {
+    opacity: 0.7;
+    margin: 5px 30px 30px 50px;
+}
+
+.signupitem {
+    flex: 1;
+}
+
+.signuptext {
+    text-align: left;
+}
+
+.signupbutton button {
+    color: #fff;
+    font-family: 'Roboto', arial;
+    border-color: #fff;
+    border-radius: 8px;
+    background-color:#2a3744;
+    padding: 5px 25px;
+    font-size: 15px;
+}
+
+.footer {
+    padding: 1px;
+    background-color: #2a3744;
+    height: 40px;
+    text-align: center;
+    color: #c87941;
+}
