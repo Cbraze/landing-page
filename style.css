@@ -91,7 +91,7 @@ h1 {
 
 .title button:hover {
     background-color: #ff9100;
-    box-shadow: 0px 15px 20px rgba(235, 202, 19, 0.4);
+    box-shadow: 0px 5px 10px rgba(235, 202, 19, 0.4);
     color: #fff;
     transform: translateY(-5px);
 }
@@ -186,6 +186,7 @@ ul {
 .signup p {
     opacity: 0.7;
     margin: 5px 30px 30px 50px;
+    padding-left: 5px;
 }
 
 .signupitem {
@@ -193,30 +194,31 @@ ul {
 }
 
 .signuptext {
-    text-align: left;
+    text-align: center;
 }
 
 .signupbutton button {
     width: 140px;
-  height: 45px;
-  font-size: 11px;
-  text-transform: uppercase;
-  letter-spacing: 2.5px;
-  font-weight: 500;
-  color: #000;
-  background-color: #fff;
-  border: none;
-  border-radius: 45px;
-  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease 0s;
-  cursor: pointer;
-  outline: none;
+    height: 45px;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #000;
+    background-color: #fff;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+  
     
 }
 
 .signupbutton button:hover {
     background-color: #ff9100;
-    box-shadow: 0px 15px 20px rgba(235, 202, 19, 0.4);
+    box-shadow: 0px 5px 10px rgba(235, 202, 19, 0.4);
     color: #fff;
     transform: translateY(-5px);
 }
