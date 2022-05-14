@@ -123,9 +123,9 @@ ul {
 
 .content-items img:hover{
     color: #000;
-    background-color: #fff;
-    border: none;
-    border-radius: 45px;
+
+    border:5px solid #c87941;
+    border-radius: 14px;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease 0s;
     cursor: pointer;
@@ -134,7 +134,7 @@ ul {
 
 .content-items img:hover {
     background-color: #ff9100;
-    box-shadow: 0px 15px 20px rgba(235, 202, 19, 0.4);
+    box-shadow: 0px 5px 10px rgba(235, 202, 19, 0.4);
     color: #fff;
     transform: translateY(-5px);
 }
